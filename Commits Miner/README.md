@@ -35,7 +35,7 @@ For classification, the following models are recommended and available via the d
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/ailonTeixeira/CommitsMiner
+git clone https://github.com/
 cd CommitsMiner
 ```
 
