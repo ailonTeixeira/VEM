@@ -143,6 +143,12 @@ Preview the exact prompt that will be sent to the LLM for a given commit.
 - `src/classifier.py`: LLM-based commit classification.
 - `src/analyzer.py`: Analysis and plotting of classification results.
 
+## Files
+cloned_repos
+https://drive.google.com/drive/folders/16hDUt99LhSKbs1KJbTkCLn8_bMvz3lRf?usp=sharing
+commits_candidates
+https://drive.google.com/file/d/1G0Ib8XCaLzyLzk47RN7ZnO_dZvYErqi_/view?usp=sharing
+
 ## License
 
 MIT License
